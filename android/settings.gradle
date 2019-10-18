@@ -1,0 +1,3 @@
+rootProject.name = 'app_tasks_manager_rncli'
+
+include ':app'
