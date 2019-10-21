@@ -32,7 +32,7 @@ export const Main = () => {
       />
 
       <ModalDetails
-        visible={true}
+        visible={modalDetailsVisible}
         onClose={handleCloseModalDetails}
       />
 
